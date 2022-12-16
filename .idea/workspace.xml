@@ -55,7 +55,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WebElements01">
+  <component name="RunManager" selected="Application.WebElements02">
     <configuration name="IlkClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="video1.IlkClass" />
       <module name="com.YoutubeSelenium" />
@@ -82,8 +82,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WebElements02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="video04_webElements.WebElements02" />
+      <module name="com.YoutubeSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="video04_webElements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WebElements02" />
         <item itemvalue="Application.WebElements01" />
         <item itemvalue="Application.IlkClass" />
       </list>
@@ -105,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671208005820</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="4. Ders WebElements TC'leri">
+      <created>1671208527466</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671208527466</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
