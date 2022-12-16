@@ -20,7 +20,7 @@ public class WebElements02 {
         // https://www.facebook.com adresine gidin
         driver.get("https:www.facebook.com");
         // cookies cikarsa kabul et butonuna basin
-        driver.findElement(By.xpath("//button[@title='Allow essential and optional cookies']")).click();
+        //driver.findElement(By.xpath("//button[@title='Allow essential and optional cookies']")).click();
         // e-posta kutusuna rastgele bir mail girin
         WebElement epostaKutusu= driver.findElement(By.xpath("//input[@id='email']"));
         epostaKutusu.sendKeys("Hlkiujhgtrf");

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8754ef1-bd12-4aad-bdf2-815c7a2fad94" name="Changes" comment="4. Ders WebElements TC'leri" />
+    <list default="true" id="d8754ef1-bd12-4aad-bdf2-815c7a2fad94" name="Changes" comment="WebElements02 TC" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671208527466</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="WebElements02 TC">
+      <created>1671215615615</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671215615615</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +194,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="4. Ders WebElements TC'leri" />
-    <option name="LAST_COMMIT_MESSAGE" value="4. Ders WebElements TC'leri" />
+    <MESSAGE value="WebElements02 TC" />
+    <option name="LAST_COMMIT_MESSAGE" value="WebElements02 TC" />
   </component>
 </project>
